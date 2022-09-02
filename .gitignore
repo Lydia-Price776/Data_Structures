@@ -1,0 +1,12 @@
+# IntelliJ IDEA files
+.idea
+.iws
+*.iml
+*.ipr
+
+#MacOS Files
+*.DS_Store
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
