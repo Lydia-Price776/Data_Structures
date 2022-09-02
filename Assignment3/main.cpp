@@ -1,6 +1,3 @@
-// Lydia Price
-//ID: 20004521
-
 #include <cstdlib>
 #include <iostream>
 #include <fstream>
